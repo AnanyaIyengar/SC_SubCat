@@ -320,6 +320,28 @@ total_pop_hr <- 25351462
 #Discrepancies exist in that categories that must be mutually exhaustive do not add up to 100%.
 #This is attributed to the fact that the total figure for scheduled castes includes data for Generic Castes i.e. those who returned as Anusuchit Jati, Harijan, etc. as mention by the Census 2011 Appendix 10 footnotes. 
 
+########################################################################################
+
+#Sessions Info 
+#R version 4.2.1 (2022-06-23 ucrt)
+#Platform: x86_64-w64-mingw32/x64 (64-bit)
+#Running under: Windows 10 x64 (build 22621)
+
+#Matrix products: default
+
+#locale:
+#[1] LC_COLLATE=English_India.utf8  LC_CTYPE=English_India.utf8    LC_MONETARY=English_India.utf8
+#[4] LC_NUMERIC=C                   LC_TIME=English_India.utf8    
+
+#attached base packages:
+#[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+#loaded via a namespace (and not attached):
+# [1] fansi_1.0.3      assertthat_0.2.1 utf8_1.2.2       dplyr_1.0.10     R6_2.5.1        
+# [6] DBI_1.1.3        lifecycle_1.0.2  magrittr_2.0.3   pillar_1.8.1     rlang_1.0.6     
+# [11] cli_3.4.1        rstudioapi_0.14  vctrs_0.4.2      generics_0.1.3   tools_4.2.1     
+# [16] glue_1.6.2       purrr_0.3.4      compiler_4.2.1   pkgconfig_2.0.3  tidyselect_1.1.2
+# [21] tibble_3.1.8    
 
 
 
